@@ -1,0 +1,4 @@
+Counter Strike
+Shooter,Multijugador,Online
+Valve Software
+Juega en equipo y dispara.

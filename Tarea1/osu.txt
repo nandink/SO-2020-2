@@ -1,0 +1,4 @@
+Osu
+Rítmico
+Dean Peppy Herbert
+Descarga canciones y sigue el ritmo usando mouse y teclado.

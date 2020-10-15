@@ -1,0 +1,4 @@
+Valorant
+Shooter,Multijugador
+Riot Games
+Elige tu personaje y dispara.
